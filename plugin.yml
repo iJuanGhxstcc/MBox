@@ -1,0 +1,8 @@
+name: MysteryBox
+version: 0.0.1
+main: ghxst\main
+api: 5.0.0
+
+permissions:
+ box.op
+  default.op
